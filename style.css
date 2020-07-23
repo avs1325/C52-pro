@@ -1,0 +1,57 @@
+* {
+    background-color: darkgray;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:rgba(17, 7, 70, 0.603);
+}
+
+
+.student {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color:rgba(17, 7, 70, 0.603);
+}
+
+
+.header {
+    background-color:rgba(8, 4, 26, 0.603);
+    display: flexbox;
+    justify-content: space-between;
+}
+
+a {
+    color: cornsilk;
+    background-color:rgba(8, 4, 26, 0.603);
+}
+
+p {
+    color: rgb(235, 211, 211);
+    font-size: x-large;
+    background-color:rgba(18, 7, 70, 0.603);
+}
+
+h2 {
+    color: cornsilk;   
+    background-color:rgba(18, 7, 70, 0.603);
+}
+
+a:hover {
+    font-size: xx-large;
+    background-color:rgb(0, 128, 128);
+    color: cornsilk;  
+}
+
+a:link {
+    background-color:rgb(0, 128, 128);
+    color: cornsilk;  
+}
+
+p:hover {
+    font-size: xx-large;
+    background-color:rgb(0, 128, 128);
+}
